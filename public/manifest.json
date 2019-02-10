@@ -1,0 +1,21 @@
+{  
+	"name": "PWA shell",   
+	"short_name": "PWAshell", 
+	"lang": "en-US",     
+	"start_url": "/index.html", 
+	"display": "standalone",  
+	"background_color": "white",   
+	"theme_color": "black",
+	"icons": [
+		{
+			"src": "/images/main-192.png",
+			"type": "image/png",
+			"sizes": "192x192"
+		},
+		{
+			"src": "/images/main-512.png",
+			"type": "image/png",
+			"sizes": "512x512"
+		}
+	]
+}

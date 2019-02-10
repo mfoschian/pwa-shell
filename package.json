@@ -1,0 +1,15 @@
+{
+  "name": "DbPromise",
+  "version": "0.1.0",
+  "description": "Very basic Promise interface for mssql",
+  "dependencies": {
+    "minihttp": "^0.1.4"
+  },
+  "scripts": {
+    "start": "node _localhost/server.js"
+  },
+  "author": "mfx",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "devDependencies": {}
+}
